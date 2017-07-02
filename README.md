@@ -1,5 +1,5 @@
 # Whats-my-name
-Lanyard holder for the Pimoroni Inky and other pHats. 
+Lanyard holder for the Pimoroni Inky and other pHats.
 
 You are welcome to use this files for your own use, please link back to this page.
 
