@@ -1,6 +1,6 @@
 # Whats-my-name
 
-![whats my name front](https://raw.githubusercontent.com/Coretec-Robotics/Whats-my-name/edit/master/WhatsMyNameFront.png)
+![whats my name front](https://raw.githubusercontent.com/Coretec-Robotics/Whats-my-name/edit/master/What'sMyNameFront.png)
 
 Lanyard holder for the Pimoroni Inky and other pHats.
 
